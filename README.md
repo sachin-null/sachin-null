@@ -1,16 +1,93 @@
-## Hi there 👋
+#<h1 align="center">Hi 👋, I'm Sachin</h1>
 
-<!--
-**sachin-null/sachin-null** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+💻 Cybersecurity Enthusiast • Web Developer • Tech Explorer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+🔐 Learning • Building • Securing • Innovating
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🧠 Passionate about **Cybersecurity, Technology, and Problem Solving**
+- 💻 Building projects with **HTML, CSS, JavaScript, Python, and Java**
+- 🛡️ Exploring **Ethical Hacking, Online Safety, and Security Awareness**
+- 📱 Interested in **Mobile Technology & Emerging Tech**
+- 🌌 Fascinated by the intersection of **Technology and the Universe**
+- ⚡ I don't just use systems — I explore how they work.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+- 🐍 Python
+- ☕ Java
+- 🌐 JavaScript
+
+### Web Development
+- HTML5
+- CSS3
+- JavaScript
+
+### Cybersecurity
+- Security Fundamentals
+- Phishing & Scam Awareness
+- Online Safety Practices
+- Linux Basics
+- Networking Concepts
+
+### Tools & Technologies
+- Git & GitHub
+- VS Code
+- Android Development Environment
+- Mobile Technology Troubleshooting
+
+---
+
+## 📚 Currently Learning
+
+- 🔐 Ethical Hacking & Cybersecurity
+- 🐧 Linux for Security
+- 🌐 Advanced Web Development
+- ⚙️ Python for Automation
+- 🛡️ Security Best Practices
+
+---
+
+## 🚀 Projects & Interests
+
+- 🎮 Interactive Web Projects
+- 🌌 Paradox World
+- 🧪 Learning Experiments
+- 🛡️ Cybersecurity Awareness Content
+- 📱 Mobile Technology Solutions
+
+---
+
+## 🌍 Featured Project
+
+🌐 **Paradox World**  
+Explore interactive experiences, games, and creative projects.
+
+🔗 https://paradox-world.netlify.app/
+
+---
+
+## 🎯 Goals
+
+- Continuously improve technical skills
+- Build impactful and secure applications
+- Share knowledge about cybersecurity awareness
+- Contribute to meaningful projects
+
+---
+
+> *"Silence is power. Knowledge is security. Code turns ideas into reality."*
+
+<p align="center">
+⭐ Always learning, always improving.
+</p>
