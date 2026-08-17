@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sachin
 
-### Android Developer • Web Developer • UI Designer
+### Android Developer • Web Developer • UI Designer • Cybersecurity Enthusiast
 
 Building clean apps, modern websites and creative digital experiences.
 
@@ -17,9 +17,9 @@ Building clean apps, modern websites and creative digital experiences.
 - 📱 Android Developer
 - 🌐 Frontend Web Developer
 - 🎨 UI/UX Designer
-- 🧑‍💻 Cyber Securaty Enthusiast
-- ⚡ Learn • Break • Fix • Creat
-- 🥷 I don't Follow Trend I explore The hidden Reality 
+- 🧑‍💻 Cybersecurity Enthusiast
+- ⚡ Learn • Break • Fix • Create
+- 🥷 I don't follow trends — I explore hidden realities
 
 ---
 
@@ -27,9 +27,25 @@ Building clean apps, modern websites and creative digital experiences.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,firebase,git,github,vscode&perline=5"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,firebase,git,github,vscode,python&perline=5"/>
 
 </p>
+
+---
+
+# 🧰 HackPath Security Tools
+
+> Ethical hacking tools built for learning & authorized testing
+
+| Tool | Description | Status |
+|------|-------------|:------:|
+| 🔨 **BruteForcer v2** | 5-in-1 multi-protocol password tester (SSH, FTP, HTTP, MySQL, SMTP) | ✅ |
+| 📋 **Wordlist Maker v2** | 6-in-1 targeted wordlist generator | ✅ |
+| 🔍 **NetSage v1** | Network scanner & analyzer (7 tools in one) | 🆕 |
+| 🔐 **PassGen v2** | Strong password generator | ✅ |
+| 🌐 **OSINT Tool** | Open source intelligence gathering | ✅ |
+| 📱 **Phone Analyzer** | Phone number analysis tool | ✅ |
+| 🔓 **CTF Helper v2** | Capture The Flag helper toolkit | ✅ |
 
 ---
 
@@ -71,6 +87,7 @@ Building clean apps, modern websites and creative digital experiences.
 - 🌐 Responsive Websites
 - 🎨 Material Design
 - 🔥 Firebase
+- 🔐 Ethical Hacking & Security Tools
 - 🚀 Open Source
 
 ---
